@@ -10,6 +10,9 @@
 >> ga diganti juga ga apa2 lah, udah gw ganti discriptna, bangke emang ada yg typo
 8. abis itu udah deh cek db.posadressnya
 
+ini nanti hasil akhir kalo udah kelar ya gayysss\
+<img src="https://imgur.com/a/lDUXO3i/">
+!(image)[https://imgur.com/a/lDUXO3i]
 
 
 list command buat di mongo.exe
