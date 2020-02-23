@@ -10,11 +10,8 @@
 >> ga diganti juga ga apa2 lah, udah gw ganti discriptna, bangke emang ada yg typo
 8. abis itu udah deh cek db.posadressnya
 
-ini nanti hasil akhir kalo udah kelar ya gayysss\
-<img src="https://imgur.com/a/lDUXO3i/">
-!(image)[https://imgur.com/a/lDUXO3i]
-
-
+ini nanti hasil akhir kalo udah kelar ya gayysss
+[Imgur](https://imgur.com/0n6Gw1g)
 list command buat di mongo.exe
 1. show dbs = buat nampilin db yg kalian punya
 2. use <nama db> = buat milih db yg kalian mau cek
