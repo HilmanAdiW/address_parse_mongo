@@ -1,5 +1,5 @@
 # tugas si adarsh
-1. install ya mongodbnya, kalo belum download, download anjing disini https://www.mongodb.com/download-center/community?jmp=docs, jangan lupa pilih .msi
+1. install ya mongodbnya, kalo belum download, download disini https://www.mongodb.com/download-center/community?jmp=docs, jangan lupa pilih .msi
 2. run installernya ya, next2 aja lah sampe kelar
 3. terus buka jupyter notebook, terus buka tuh data di C:\Users\<users>\<folder>\Data acquistion system\Notebooks, yg judulnya MongoDB connection and storage.ipynb
 4. run aja biasa itu notebook, kalo belum ke install pymongo, ketika !pip install pymongo di jupyter, tungguin, kalo error internet kalian busuk
