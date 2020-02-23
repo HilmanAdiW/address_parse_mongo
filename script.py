@@ -4,6 +4,7 @@ import math
 import time
 from pymongo import MongoClient
 from pprint import pprint
+from parserpackage import AddressParser
 
 # Connection to database
 client = MongoClient(port=27017)
@@ -25,7 +26,8 @@ while counter < 4:   # set the batch
         print('Raw address : {}'.format(address))
 
     ####### Write a script to parse addresses using parser module
-
+        test_object = AddressParser()
+        data["parse address"] = test_object.parse_address(address)
         result = db.addresses.insert_one(data)  # Save data in database
         print('Data processed : {}'.format(i))
 
