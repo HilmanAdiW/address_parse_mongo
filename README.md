@@ -6,8 +6,10 @@
 5. terus buka folder ini C:\Program Files\MongoDB\Server\4.2\bin, run yg mongo.exe lah
 6. cek kopasan dari mba windy di grup yak, buat ngecek isi db
 7. abis itu lu pade baru jalanin script.py di folder data acquistion system, jangan lupa ada beberapa yg diedit yaitu :
-   1). ganti batch size, start, skiprowsnya kalo mau iseng2
-   2). ga diganti juga ga apa2 lah, udah gw ganti discriptna, bangke emang ada yg typo
+
+1). ganti batch size, start, skiprowsnya kalo mau iseng2
+2). ga diganti juga ga apa2 lah, udah gw ganti discriptna, bangke emang ada yg typo
+
 8. abis itu udah deh cek db.posadressnya
 
 
