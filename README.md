@@ -18,3 +18,7 @@
 2. use <nama db> = buat milih db yg kalian mau cek
 3. show collectons = buat nampilin semua table yg ada di db
 4. db.adresses.find().pretty() = ngecek isi table, kalo ada isinya selamat, anda berhasil
+  
+# FOR ADARSH
+1. the modified script in script.py, its included address parsing and its batch code, in that python script,we teest 4 batches with 5 rows for each batches
+2. the result is in result.json
